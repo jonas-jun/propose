@@ -136,7 +136,7 @@ def q7():
     print(q)
     print('{}\n{}\n{}\n{}'.format(a1, a2, a3, a4))
     ans = 0
-    img_show('img/q7_1.JPG', 3)
+    img_show('img/q7_1.JPG', 5)
     while ans != '2':
         ans = input('ans: ')
         if ans != '2':
@@ -156,7 +156,7 @@ def q8():
     print(q)
     print('{}\n{}\n{}\n{}'.format(a1, a2, a3, a4))
     ans = 0
-    img_show('img/q8_1.JPG', 3)
+    img_show('img/q8_1.JPG', 5)
     while ans != '3':
         ans = input('ans: ')
         if ans != '3':

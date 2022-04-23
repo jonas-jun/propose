@@ -146,7 +146,7 @@ def q7():
         if ans != '2':
             print('뽀귀? 빵귀..')
         else:
-            print('앞으로 호랑이 타고 직접 자주 맛집에 가서 맛있는 걸 먹어요')
+            print('앞으로 자주 호랑이 타고 직접 맛집에 가서 맛있는 걸 같이 먹자')
             break
     img_show('img/q7_2.JPG', 5)
     cv2.destroyAllWindows()
